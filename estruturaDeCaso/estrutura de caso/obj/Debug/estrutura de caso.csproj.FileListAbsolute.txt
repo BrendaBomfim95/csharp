@@ -1,0 +1,16 @@
+C:\Users\brend\source\repos\estrutura de caso\estrutura de caso\bin\Debug\estrutura de caso.exe.config
+C:\Users\brend\source\repos\estrutura de caso\estrutura de caso\bin\Debug\estrutura de caso.exe
+C:\Users\brend\source\repos\estrutura de caso\estrutura de caso\bin\Debug\estrutura de caso.pdb
+C:\Users\brend\source\repos\estrutura de caso\estrutura de caso\obj\Debug\estrutura de caso.csproj.AssemblyReference.cache
+C:\Users\brend\source\repos\estrutura de caso\estrutura de caso\obj\Debug\estrutura de caso.csproj.SuggestedBindingRedirects.cache
+C:\Users\brend\source\repos\estrutura de caso\estrutura de caso\obj\Debug\estrutura de caso.csproj.CoreCompileInputs.cache
+C:\Users\brend\source\repos\estrutura de caso\estrutura de caso\obj\Debug\estrutura de caso.exe
+C:\Users\brend\source\repos\estrutura de caso\estrutura de caso\obj\Debug\estrutura de caso.pdb
+C:\Users\brend\source\repos\estruturaDeCaso\estrutura de caso\obj\Debug\estrutura de caso.csproj.AssemblyReference.cache
+C:\Users\brend\source\repos\estruturaDeCaso\estrutura de caso\obj\Debug\estrutura de caso.csproj.SuggestedBindingRedirects.cache
+C:\Users\brend\source\repos\estruturaDeCaso\estrutura de caso\obj\Debug\estrutura de caso.csproj.CoreCompileInputs.cache
+C:\Users\brend\source\repos\estruturaDeCaso\estrutura de caso\obj\Debug\estrutura de caso.exe
+C:\Users\brend\source\repos\estruturaDeCaso\estrutura de caso\obj\Debug\estrutura de caso.pdb
+C:\Users\brend\source\repos\estruturaDeCaso\estrutura de caso\bin\Debug\estrutura de caso.exe.config
+C:\Users\brend\source\repos\estruturaDeCaso\estrutura de caso\bin\Debug\estrutura de caso.exe
+C:\Users\brend\source\repos\estruturaDeCaso\estrutura de caso\bin\Debug\estrutura de caso.pdb
