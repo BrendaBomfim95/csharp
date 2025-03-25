@@ -1,0 +1,3 @@
+C:\Users\brend\source\repos\CASO\CASO\obj\Debug\CASO.csproj.AssemblyReference.cache
+C:\Users\brend\source\repos\CASO\CASO\obj\Debug\CASO.csproj.SuggestedBindingRedirects.cache
+C:\Users\brend\source\repos\CASO\CASO\obj\Debug\CASO.csproj.CoreCompileInputs.cache
