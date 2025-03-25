@@ -1,0 +1,8 @@
+C:\Users\brend\source\repos\atividade11profGilmar\atividade11profGilmar\obj\Debug\atividade11profGilmar.csproj.AssemblyReference.cache
+C:\Users\brend\source\repos\atividade11profGilmar\atividade11profGilmar\obj\Debug\atividade11profGilmar.csproj.SuggestedBindingRedirects.cache
+C:\Users\brend\source\repos\atividade11profGilmar\atividade11profGilmar\obj\Debug\atividade11profGilmar.csproj.CoreCompileInputs.cache
+C:\Users\brend\source\repos\atividade11profGilmar\atividade11profGilmar\bin\Debug\atividade11profGilmar.exe.config
+C:\Users\brend\source\repos\atividade11profGilmar\atividade11profGilmar\bin\Debug\atividade11profGilmar.exe
+C:\Users\brend\source\repos\atividade11profGilmar\atividade11profGilmar\bin\Debug\atividade11profGilmar.pdb
+C:\Users\brend\source\repos\atividade11profGilmar\atividade11profGilmar\obj\Debug\atividade11profGilmar.exe
+C:\Users\brend\source\repos\atividade11profGilmar\atividade11profGilmar\obj\Debug\atividade11profGilmar.pdb
